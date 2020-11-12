@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nevjegykartyak xmlns="https://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.w3schools.com PT_nevjegykartya.xsd">
+    <nevjegykartya id="1">
+        <nev>Nagy Ernő</nev>
+        <ceg>
+            <cim>
+                <iranyitoszam>1379</iranyitoszam>
+                <varos>Leningrád</varos>
+                <utca>Sztálin</utca>
+                <hazszam>2</hazszam>
+            </cim>
+            <nev>Kalapács és Társa KFT.</nev>
+            <telefonszam korzet="10">987654</telefonszam>
+            <weblap>https://cccp.hu</weblap>
+        </ceg>
+        <beosztas>Segéd Mérnök</beosztas>
+        <telefonszam korzet="11">321098</telefonszam>
+        <email>nagyerno@cccp.hu</email>
+    </nevjegykartya>
+
+    <nevjegykartya id="2">
+        <nev>Winch Eszter</nev>
+        <ceg>
+            <cim>
+                <iranyitoszam>1564</iranyitoszam>
+                <varos>Bugyi</varos>
+                <utca>Forrás</utca>
+                <hazszam>3</hazszam>
+            </cim>
+            <nev>Maradj Otthon BT.</nev>
+            <telefonszam korzet="69">42069</telefonszam>
+            <weblap>https://boldogholgyek.hu</weblap>
+        </ceg>
+        <beosztas>Rekreációs munkatárs</beosztas>
+        <telefonszam korzet="55">34156</telefonszam>
+        <email>eszter@atmegyek.hu</email>
+    </nevjegykartya>
+</nevjegykartyak>

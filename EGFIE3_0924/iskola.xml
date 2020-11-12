@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE iskola SYSTEM "iskola.dtd">
+<iskola>
+    <tanar kod="1">
+        <nev>Iránytű Imre</nev>
+        <szak>É szak</szak>
+    </tanar>
+    <tanar kod="2">
+        <nev>Gusztáv Góliát</nev>
+        <szag>Erő szak</szag>
+    </tanar>
+    <tantargy kod="1" oktato="2">
+        <tnev>Nevezetes mítoszok</tnev>
+        <osztaly>GG/1</osztaly>
+    </tantargy>
+</iskola>

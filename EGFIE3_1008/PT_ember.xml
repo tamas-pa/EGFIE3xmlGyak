@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ember xmlns="https://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.w3schools.com PT_ember.xsd">
+    <nev1>Füty</nev1>
+    <fizetes>31000</fizetes>
+    <nev>Imre</nev>
+</ember>
